@@ -1,0 +1,95 @@
+[
+  {
+    "issueId": 1,
+    "createdDate": "01/20/2020",
+    "closedDate": null,
+    "status": "Open",
+    "title": "Allow `devDependencies` in template.json",
+    "description": "Hello when trying to spin up a new creat app with ",
+    "commentCount": 0,
+    "milestone": "100.0",
+    "author": {
+      "authorId": 1,
+      "avatarURL": "https://avatars2.githubusercontent.com/u/10616358?s=400&v=4",
+      "firstName": "Abel",
+      "lastName": "Ramirez",
+      "userName": "abel305",
+      "bio": "Full-stack Web Developer | JavaScript Enthusiast | Community Ambassador | FSW",
+      "location": "Accra, Ghana",
+      "org": "Lambda, Inc.",
+      "orgURL": "http://lambdaschool.com/"
+    },
+    "labels": [
+      {
+        "labelId": 1,
+        "title": "issue: bug report"
+      },
+      {
+        "labelId": 3,
+        "title": "needs triage"
+      }
+    ]
+  },
+  {
+    "issueId": 2,
+    "createdDate": "01/22/2020",
+    "closedDate": null,
+    "status": "Open",
+    "title": "Create project fails if there is a space in the directory using yarn",
+    "description": "This bug happens when there is a space in the dire",
+    "commentCount": 0,
+    "milestone": null,
+    "author": {
+      "authorId": 2,
+      "avatarURL": "https://avatars3.githubusercontent.com/u/31483629?s=400&v=4",
+      "firstName": "Mike",
+      "lastName": "Perry",
+      "userName": "mikeattara",
+      "bio": null,
+      "location": "Berlin",
+      "org": "adac-camping",
+      "orgURL": "https://topcraftbits.github.io/AstroCats/"
+    },
+    "labels": [
+      {
+        "labelId": 1,
+        "title": "issue: bug report"
+      },
+      {
+        "labelId": 3,
+        "title": "needs triage"
+      },
+      {
+        "labelId": 2,
+        "title": "issue: proposal"
+      }
+    ]
+  },
+  {
+    "issueId": 5,
+    "createdDate": "01/29/2020",
+    "closedDate": null,
+    "status": "Open",
+    "title": "How do I make https stay with the certificate I set? ",
+    "description": "On the way, ./node_module/webpack-dev-server/clien",
+    "commentCount": 0,
+    "milestone": "4.0",
+    "author": {
+      "authorId": 3,
+      "avatarURL": "https://avatars3.githubusercontent.com/u/8989787?s=400&v=4",
+      "firstName": "Adelya",
+      "lastName": "Fatykhova",
+      "userName": "adelyafatykhova",
+      "bio": "Maintainer of React App",
+      "location": "Berlin",
+      "org": "Geocortex",
+      "orgURL": null
+    },
+    "labels": [
+      {
+        "labelId": 3,
+        "title": "needs triage"
+      }
+    ]
+  }
+]
